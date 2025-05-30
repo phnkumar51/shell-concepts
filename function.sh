@@ -5,6 +5,9 @@
 # How to Access the function - Syntax: Function_name
 Devops(){
   echo Learning Shell Scripts
+  echo Value of Y is $y
 }
 
 Devops
+y=20
+# Variables in Functions - We can access variables inside the function
