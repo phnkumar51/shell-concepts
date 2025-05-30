@@ -8,6 +8,8 @@ Devops(){
   echo Value of y - $y
 }
 
-Devops
+
 y=20
+Devops
 # Variables in Functions - We can access variables inside the function
+
