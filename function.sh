@@ -5,7 +5,7 @@
 # How to Access the function - Syntax: Function_name
 Devops(){
   echo Learning Shell Scripts
-  echo Value of Y is $y
+  echo Value of y - $y
 }
 
 Devops
